@@ -1,0 +1,6 @@
+# Extracted images (temporary)
+extracted_images/
+*.ppm
+
+# Temporary files
+/tmp/
