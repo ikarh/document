@@ -4,3 +4,7 @@ extracted_images/
 
 # Temporary files
 /tmp/
+
+# Python cache
+__pycache__/
+*.pyc
